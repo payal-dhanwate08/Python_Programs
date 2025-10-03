@@ -1,0 +1,3 @@
+CalculetCube = lambda No :No**3
+ret=CalculetCube(3872662)
+print("result is : ",ret)
